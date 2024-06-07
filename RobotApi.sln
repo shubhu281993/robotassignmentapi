@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RobotApi.API", "RobotApi.API\RobotApi.API.csproj", "{BF3F6526-8CE6-45CA-A8D2-0694A01BEAB3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RobotApi.Domain", "RobotApi.Domain\RobotApi.Domain.csproj", "{2A03F90A-829E-4AAC-BE3B-5557D5DF1D79}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RobotApi.Common", "RobotApi.Common\RobotApi.Common.csproj", "{EF5573D9-B2E2-4448-B55A-BCDE92B9885E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RobotApi.API.Tests", "..\..\Users\saxenas1\source\repos\RobotApi.API.Tests\RobotApi.API.Tests.csproj", "{EED35C64-E068-4187-A598-2CAECD0B77CD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RobotApi.Domain.Tests", "..\..\Users\saxenas1\source\repos\RobotApi.Domain.Tests\RobotApi.Domain.Tests.csproj", "{B4E3AB66-BB50-44E7-9D01-924BF9F505A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF3F6526-8CE6-45CA-A8D2-0694A01BEAB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3F6526-8CE6-45CA-A8D2-0694A01BEAB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF3F6526-8CE6-45CA-A8D2-0694A01BEAB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3F6526-8CE6-45CA-A8D2-0694A01BEAB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A03F90A-829E-4AAC-BE3B-5557D5DF1D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A03F90A-829E-4AAC-BE3B-5557D5DF1D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A03F90A-829E-4AAC-BE3B-5557D5DF1D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A03F90A-829E-4AAC-BE3B-5557D5DF1D79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF5573D9-B2E2-4448-B55A-BCDE92B9885E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF5573D9-B2E2-4448-B55A-BCDE92B9885E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF5573D9-B2E2-4448-B55A-BCDE92B9885E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF5573D9-B2E2-4448-B55A-BCDE92B9885E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EED35C64-E068-4187-A598-2CAECD0B77CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EED35C64-E068-4187-A598-2CAECD0B77CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EED35C64-E068-4187-A598-2CAECD0B77CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EED35C64-E068-4187-A598-2CAECD0B77CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4E3AB66-BB50-44E7-9D01-924BF9F505A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E3AB66-BB50-44E7-9D01-924BF9F505A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E3AB66-BB50-44E7-9D01-924BF9F505A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E3AB66-BB50-44E7-9D01-924BF9F505A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E75D891-42FE-43EF-8585-111125B2D474}
+	EndGlobalSection
+EndGlobal
